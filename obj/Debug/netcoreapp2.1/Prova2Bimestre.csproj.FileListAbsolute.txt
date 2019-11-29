@@ -1,0 +1,4 @@
+c:\ProjetosVSCode\Prova2Bimestre\obj\Debug\netcoreapp2.1\Prova2Bimestre.csprojAssemblyReference.cache
+c:\ProjetosVSCode\Prova2Bimestre\obj\Debug\netcoreapp2.1\Prova2Bimestre.csproj.CoreCompileInputs.cache
+c:\ProjetosVSCode\Prova2Bimestre\obj\Debug\netcoreapp2.1\Prova2Bimestre.AssemblyInfoInputs.cache
+c:\ProjetosVSCode\Prova2Bimestre\obj\Debug\netcoreapp2.1\Prova2Bimestre.AssemblyInfo.cs
